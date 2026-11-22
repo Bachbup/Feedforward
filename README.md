@@ -46,11 +46,10 @@ Feedforward does not replace feedback. Feedback handles model error and unknown 
 
 ## Repository Structure
 
-> Adjust this section to match your actual folder layout.
-
 ```
 .
 ├── README.md
+├── LICENSE
 ├── docs/
 │   ├── report_feedforward.pdf               # Report (Vietnamese) - written by the author
 │   └── report_feedforward_ver_english.pdf   # Report (English) - AI-generated (ChatGPT) translation
