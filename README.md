@@ -61,8 +61,8 @@ Feedforward does not replace feedback. Feedback handles model error and unknown 
  
 ## Requirements
  
-- MATLAB with Simulink (version: _fill in the version you used_)
-- Control System Toolbox (if your scripts use `tf`, `bode`, etc.)
+- MATLAB with Simulink (version: 2022b or higher)
+
 **Run:** open `example_1` or `example_2` in Simulink, run the model, and view the `I_meas` vs `I_cmd` scope.
  
 ---
@@ -209,10 +209,10 @@ Feedforward is especially useful in electric drive systems where fast reference 
  
 ## Author
  
-**Bach**, Control Engineering and Automation, Hanoi University of Science and Technology (Bach Khoa Hanoi).
+**Bach Hoang Nguyen-Huy**, Control Engineering and Automation, Hanoi University of Science and Technology (Bach Khoa Hanoi).
 Focus: electrical drives and power electronics.
  
 ## License
  
-_Choose a license (e.g. MIT) and add a `LICENSE` file, or remove this section._
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
  
